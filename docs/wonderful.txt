@@ -1,0 +1,26 @@
+﻿
+精采回顾
+========================================================================
+
+
+在我们的成长中，总有一些令人难忘的时刻，让我们回味，这里我们择录部份分享给大家 ......
+
+
+网友　mailcoverbox　在　http://www.diychina.org/forum.php?mod=viewthread&tid=60361&page=2#pid924216　
+
+  看的出来 这机器是下了一些心血的，价格上利润并不高
+  但是设计上应该更用心一些，有些误区应该避开。
+  1.工作台宽度65mm y轴行程120mm 主轴探出长度看起来也差不多65~75mm的样子，这样设计就会导致y轴行程没法完全使用，会顶到立柱上的。
+  2.看不到底座下面的样子，不过估计底座下面没有开槽，这样的话Y轴丝杆的槽会堆积切屑的，而且难于清除，可以观察下成品机床的设计，要么丝杠槽不外露，要么底部也开槽 方便下落。
+  3.还是y轴过长的问题，导致底板相对薄（相对于立柱），而主轴探出过长，如果y轴缩短到行程65会协调不少，这样主轴只需探出40~50mm，对刚性也有利。
+  4.z轴如果丝杠侧置的话，燕尾滑块的长度最好能更长一些。
+  5.手轮大一些，手感会好很多。
+
+
+    中华DIY论坛
+https://www.diychina.org/forum.php?mod=viewthread&tid=60361&extra=
+https://www.diychina.org/forum.php?mod=viewthread&tid=76035&extra=&_dsign=2000ebd6
+
+    我爱模型论坛
+http://bbs.5imx.com/forum.php?mod=viewthread&tid=1164650&extra=page%3D1
+http://bbs.5imx.com/forum.php?mod=viewthread&tid=1214733&extra=
